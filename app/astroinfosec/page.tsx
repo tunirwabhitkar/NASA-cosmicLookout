@@ -44,7 +44,7 @@ export default function Astroinfosec() {
             name: 'Jupiter',
             type: 'Gas Giants',
             info: 'The largest planet in our solar system, Jupiter is a gas giant composed primarily of hydrogen and helium. It has a Great Red Spot, a massive storm that has been raging for centuries.',
-            image: 'https://media.istockphoto.com/id/1667562661/photo/planet-jupiter.jpg?s=2048x2048&w=is&k=20&c=BiFXVqjbOGNxZCiEM-eF00Jd0DjubBJpGNDGmuQh9Fc=',
+            image: 'https://cdn.mos.cms.futurecdn.net/iEv6pmS4gfbefs5JbwHWiJ-970-80.png',
 
         },
         {
@@ -76,62 +76,62 @@ export default function Astroinfosec() {
             name: '433 Eros',
             type: 'S-type',
             size: '16.8 km',
-            info: 'This asteroid is one of the largest near-Earth asteroids and has been visited by spacecraft.'
+            info: '433 Eros is one of the largest near-Earth asteroids. It was discovered on August 13, 1898, by Gustav Witt. Eros was visited by NASA’s NEAR Shoemaker spacecraft, which orbited and landed on the asteroid in 2001 and 2002, providing valuable data about its composition and surface features.'
         },
         {
             name: '99942 Apophis',
-            type: 'S-type',
+            type: 'A-type',
             size: '370 m',
-            info: ' This asteroid made headlines in 2004 when it was briefly considered to have a high chance of impacting Earth. While the risk has since been downgraded, it remains an object of interest.'
+            info: '99942 Apophis is a near-Earth asteroid discovered on June 19, 2004. It is known for its potential close approaches to Earth, including a notably close encounter in 2029. Apophis is classified as an A-type asteroid, composed primarily of metal-rich silicates.'
         },
         {
             name: '101955 Bennu',
-            type: 'C-type',
-            size: '510 m',
-            info: 'This asteroid is a potential impactor and has been the target of NASAs OSIRIS-REx mission.'
+            type: 'B-type',
+            size: '492 meters',
+            info: '101955 Bennu is a near-Earth asteroid discovered on September 11, 1999. It is the target of NASA’s OSIRIS-REx mission, which successfully collected samples from Bennu’s surface in 2020. The asteroid is classified as a B-type, with a surface rich in carbonaceous materials.'
         },
         {
             name: '2009 FD',
             type: 'S-type',
             size: '130-280 m',
-            info: 'This asteroid is relatively small but has a high chance of impacting Earth in the future.'
+            info: '2009 FD is a near-Earth asteroid classified as an S-type. It is relatively small but has a high chance of impacting Earth in the future. The asteroid’s orbit brings it close to Earth, increasing its potential impact risk.'
         },
         {
             name: '65778 Dymoke',
             type: 'M-type',
             size: '1.5 km',
-            info: 'This asteroid is one of the largest near-Earth asteroids and has a potential impact risk.'
+            info: '65778 Dymoke is a near-Earth asteroid classified as an M-type, known for its metallic composition. It is one of the largest near-Earth asteroids and poses a potential impact risk due to its size and orbit.'
         },
         {
             name: '2010 RF12',
             type: 'S-type',
             size: '30-70 m',
-            info: 'This asteroid is small but has a high chance of impacting Earth in the future.'
+            info: '2010 RF12 is a small near-Earth asteroid classified as an S-type. Despite its size, it has a significant chance of impacting Earth in the future. Its orbit brings it close to Earth, making it an object of interest for impact monitoring.'
         },
         {
             name: '2008 TC3',
             type: 'S-type',
             size: '3-5 meters',
-            info: 'This asteroid is notable for being the first one to be discovered and tracked before it impacted Earth in 2008.'
+            info: '2008 TC3 is notable for being the first asteroid to be discovered and tracked before it impacted Earth. Classified as an S-type, this small asteroid entered Earth’s atmosphere and burned up over Sudan in October 2008.'
         },
         {
             name: '2014 AA',
             type: 'S-type',
             size: '2-5 meters',
-            info: 'This asteroid is also notable for being discovered and tracked before it impacted Earth in 2014.'
+            info: '2014 AA is notable for being the second asteroid to be discovered and tracked before it impacted Earth. Classified as an S-type, this small asteroid entered Earth’s atmosphere and exploded over the Atlantic Ocean in January 2014.'
         },
         {
             name: '2019 MO',
             type: 'S-type',
             size: '4-6 meters',
-            info: 'This asteroid is the smallest known object to have impacted Earth in recorded history.'
+            info: '2019 MO is notable for being the smallest known object to have impacted Earth in recorded history. Classified as an S-type, this small asteroid entered Earth’s atmosphere and burned up over the Pacific Ocean in June 2019.'
         },
         {
             name: '2023 CX1',
             type: 'S-type',
             size: '1-2 meters',
-            info: 'This asteroid is notable for being the first one to be discovered and tracked before it impacted Earth in 2023.'
-        },
+            info: '2023 CX1 is notable for being the first asteroid to be discovered and tracked before it impacted Earth in 2023. Classified as an S-type, this tiny asteroid entered Earth’s atmosphere and burned up over the atmosphere, showcasing advancements in impact monitoring.'
+        }        
     ];
 
     const cometlist = [
